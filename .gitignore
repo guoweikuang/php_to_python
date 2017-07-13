@@ -1,0 +1,8 @@
+*~
+*pyc
+*.yaml
+settings.yaml
+/static/questionpic/
+/apnsclient/pem_dir/
+static/export_highrich/*.xls
+.idea/
