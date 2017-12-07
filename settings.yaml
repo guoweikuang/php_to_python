@@ -2,7 +2,7 @@ mysql:
     host: "127.0.0.1"
     database: qianka
     user: root
-    password: '2014081029'
+    password: '123456'
     time_zone: "+8:00"
 
 redis:
@@ -14,5 +14,5 @@ tornado:
     autoreload: True
         
 duiba:
-    appKey: "2x1LvFvWiHu1DNapk6nKbaQgZQak"
-    appSecret: "g96bgb6tGvUzwsw9JoqjSttLhd3"
+    appKey: "yuiyiuhyuiohou"
+    appSecret: "g96bgb6tGvuohoijUzwsw9JoqjSttLhd3"
